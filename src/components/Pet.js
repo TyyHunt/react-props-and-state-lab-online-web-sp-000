@@ -17,7 +17,7 @@ class Pet extends React.Component {
       )
     }
   }
-  
+
   render() {
     return (
       <div className="card">
